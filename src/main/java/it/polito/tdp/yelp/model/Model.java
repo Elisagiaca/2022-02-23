@@ -52,6 +52,10 @@ public class Model {
 		}
 	}
 	
+	
+	//pprova 
+	
+	
 	public List<Trovato> getRecensioneMax() {
 		List<Trovato> listaReturn = new ArrayList<>();
 		
